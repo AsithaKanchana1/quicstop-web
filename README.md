@@ -47,21 +47,6 @@ npm run dev
 
 3. Click Reset to reset the timer back to zero.
 
-## 📂 Project Structure
-
-quickstop/
-├── src/
-├── ├──img/
-│       ├── code.png # App.js Code image for Readme file
-│       ├── ss1.png  # Interface Screenshot for Readme file
-│   ├── App.js       # Main stopwatch component
-│   ├── index.css    # Tailwind styles
-│   ├── main.jsx     # Entry point
-├── public/
-│   ├── index.html   # HTML template
-├── package.json     # Project metadata & dependencies
-└── README.md        # Documentation
-
 ## 🚀 Deployment
 
 You can deploy this project using Vercel, Netlify, or GitHub Pages.
