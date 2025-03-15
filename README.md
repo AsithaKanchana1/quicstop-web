@@ -61,7 +61,7 @@ This project is licensed under the MIT License.
 
 ## 🌟 Show Your Support
 
-If you like this project, please star this repository ⭐ and share it!
+If you like this project, please star this repository ⭐ and share it! <br>
 and Give me small donation [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-F7931A?style=flat&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/asitha)
 
 Made with ❤️ by [Asitha Kanchana Palliyaguru]
