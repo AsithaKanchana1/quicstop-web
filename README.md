@@ -14,8 +14,8 @@ Styled with Tailwind CSS
 
 Optimized for performance
 
-![UI image](../quicstop/src/img/ss1.png)
-![Code image](../quicstop/src/img/code.png)
+![UI image](./src/img/ss1.png)
+![Code image](/src/img/code.png)
 
 ## 🛠️ Technologies Used
 
