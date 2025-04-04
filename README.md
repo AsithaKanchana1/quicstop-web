@@ -14,9 +14,12 @@ Styled with Tailwind CSS
 
 Optimized for performance
 
-![UI image](./src/img/ss1.png)
-![Code image](/src/img/code.png)
-
+<p float="left">
+  <img src="/src/img/code.png" width="200" />
+  <img src="/src/img/Screenshot 2025-04-04 124114.png" width="200" />
+  <img src="/src/img/Screenshot 2025-04-04 124121.png" width="200" />
+  <img src="/src/img/Screenshot 2025-04-04 124128.png" width="200" />
+</p>
 ## 🛠️ Technologies Used
 
 1. React - Frontend framework
@@ -63,5 +66,10 @@ This project is licensed under the MIT License.
 
 If you like this project, please star this repository ⭐ and share it! <br>
 and Give me small donation [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-F7931A?style=flat&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/asitha)
+## Contact Me :
+
+if you are having any problems Contact Me Via Email
+
+You can reach me at [asitha.contact.me@gmail.com](mailto:asitha.contact.me@gmail.com)
 
 Made with ❤️ by [Asitha Kanchana Palliyaguru]
